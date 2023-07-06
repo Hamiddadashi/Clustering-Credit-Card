@@ -1,7 +1,7 @@
 # Clustering-Credit-Card
-Clustering
-We have 2 rar files because of high volume file
-we cleaning data from Nois and evaluate diffrents of Clustering Algorithms
+- Clustering
+- We have 2 rar files because of high volume file
+- we cleaning data from Nois and evaluate diffrents of Clustering Algorithms
 
 Data sets is about people of Using Credit Card and we want to Clustering Them.
 ### Features :
